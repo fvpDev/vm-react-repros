@@ -1,9 +1,9 @@
 King({
-	mixin: 'official',
-	autorun() {
-		console.log(this.title());
-		console.log(this.title2());
-	},
+  mixin: 'official',
+  autorun() {
+    console.log(this.title());
+    console.log(this.title2());
+  },
   render(){
     <div>
       Name: <input b="value: name" /><br />
