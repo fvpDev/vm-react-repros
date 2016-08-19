@@ -3,6 +3,7 @@ App({
     <div>
       <h1>This is a person:</h1>
       <Person />
+      <King />
     </div>
   }
 });
